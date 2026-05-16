@@ -4,39 +4,39 @@ void main()
 {
 #pragma region 산술 연산자
 
-	// int storage = 0;
-	// 
-	// int x = 10;
-	// int y = 5;
-	// int z = 1;
-	// int w = 10;
-	// 
-	// const int constant = 5;
-	// 
-	// // 1. 변수 = 변수 + 변수
-	// storage = x + y;
-	// 
-	// printf("storage : %d\n", storage);
-	// 
-	// // 2. 변수 = 변수 - 리터럴 상수
-	// storage = z - 1;
-	// 
-	// printf("storage : %d\n", storage);
-	// 
-	// // 3. 변수 = 변수 * 심볼릭 상수
-	// storage = w * constant;
-	// 
-	// printf("storage : %d\n", storage);
-	// 
-	// // 4. 변수 = 리터럴 상수 / 리터럴 상수
-	// storage = 20 / 5;
-	// 
-	// printf("storage : %d\n", storage);
-	// 
-	// // 5. 변수 = 심볼릭 상수 % 리터럴 상수
-	// storage = constant % 5;
-	// 
-	// printf("storage : %d\n", storage);
+	 int storage = 0;
+	 
+	 int x = 10;
+	 int y = 5;
+	 int z = 1;
+	 int w = 10;
+	 
+	 const int constant = 5;
+	 
+	 // 1. 변수 = 변수 + 변수
+	 storage = x + y;
+	 
+	 printf("storage : %d\n", storage);
+	 
+	 // 2. 변수 = 변수 - 리터럴 상수
+	 storage = z - 1;
+	 
+	 printf("storage : %d\n", storage);
+	 
+	 // 3. 변수 = 변수 * 심볼릭 상수
+	 storage = w * constant;
+	 
+	 printf("storage : %d\n", storage);
+	 
+	 // 4. 변수 = 리터럴 상수 / 리터럴 상수
+	 storage = 20 / 5;
+	 
+	 printf("storage : %d\n", storage);
+	 
+	 // 5. 변수 = 심볼릭 상수 % 리터럴 상수
+	 storage = constant % 5;
+	 
+	 printf("storage : %d\n", storage);
 
 
 #pragma endregion

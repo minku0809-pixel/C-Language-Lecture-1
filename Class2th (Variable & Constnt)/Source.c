@@ -38,33 +38,33 @@ void main()
 #pragma endregion
 
 #pragma region 
-	 // //         서식 지정자
-	 // // 변수의 값을 출력하기 위해 자료형의 정보를 명시적으로
-	 // // 지정해주는 것입니다.
-	 // 
-	 // char character = 'A';
-	 // 
-	 // int integer = 10;
-	 // 
-	 // float decimal = 5.5f;
-	 // 
-	 // printf("character = %c \ninteger = %d \ndecimal = %f", character, integer, decimal);
-	 // 
-	 // // 서식 지정자는 각각의 서식에 따라 원하는 데이터를 출력
-	 // // 할 수 있으며, 서식과 변수의 형태가 일치하지 않으면
-	 // // 원하는 값이 출력되지 않습니다.
-	 // 
-	 // character = 'B';
-	 // 
-	 // integer = 25;
-	 // 
-	 // decimal = 7.25f;
-	 // 
-	 // printf("\n");
-	 // 
-	 // printf("character = %c\n", character);
-	 // printf("integer = %d\n", integer);
-	 // printf("decimal = %f\n", decimal);
+	  //         서식 지정자
+	  // 변수의 값을 출력하기 위해 자료형의 정보를 명시적으로
+	  // 지정해주는 것입니다.
+	  
+	  char character = 'A';
+	  
+	  int integer = 10;
+	  
+	  float decimal = 5.5f;
+	  
+	  printf("character = %c \ninteger = %d \ndecimal = %f", character, integer, decimal);
+	  
+	  // 서식 지정자는 각각의 서식에 따라 원하는 데이터를 출력
+	  // 할 수 있으며, 서식과 변수의 형태가 일치하지 않으면
+	  // 원하는 값이 출력되지 않습니다.
+	  
+	  character = 'B';
+	  
+	  integer = 25;
+	  
+	  decimal = 7.25f;
+	  
+	  printf("\n");
+	  
+	  printf("character = %c\n", character);
+	  printf("integer = %d\n", integer);
+	  printf("decimal = %f\n", decimal);
 
 #pragma endregion
 
@@ -76,15 +76,15 @@ void main()
 	// 프로그램이 실행되는 동안 더 이상 값을 변경할
 	// 수 없는 메모리 공간입니다.
 
-	// const float pi = 3.141592f;
-	// 
-	// // 상수의 경우 메모리 공간을 가지고 있지 않은 상수를
-	// // 리터럴 상수라고 하며, 메모리 공간을 가지고 있는
-	// // 상수를 심볼릭 상수라고 합니다.
-	// 
-	// // ex) pi = 6.125f;
-	// 
-	// printf("상수의 값 : %f\n", pi);
+	 const float pi = 3.141592f;
+	 
+	 // 상수의 경우 메모리 공간을 가지고 있지 않은 상수를
+	 // 리터럴 상수라고 하며, 메모리 공간을 가지고 있는
+	 // 상수를 심볼릭 상수라고 합니다.
+	
+	 // ex) pi = 6.125f;
+	
+	 printf("상수의 값 : %f\n", pi);
 
 	// 상수는 메모리 공간을 생성하는 동시에 초기화해야 하며,
 	// 한 번 저장된 값은 더이상 변경할 수 없습니다.

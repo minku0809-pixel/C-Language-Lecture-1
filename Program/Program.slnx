@@ -8,5 +8,7 @@
   <Project Path="../Class3th (bit)/Class3th (bit).vcxproj" Id="ea30155e-4ce8-4669-81da-3ae62efb4129" />
   <Project Path="../Class4th (Overflow &amp; Underflow)/Class4th (Overflow &amp; Underflow).vcxproj" Id="51074b60-228b-4313-8602-20b508fc574c" />
   <Project Path="../Class5th (Conditional Statement)/Class5th (Conditional Statement).vcxproj" Id="1b6b7ffe-0397-451f-99a3-9d0dc803c831" />
+  <Project Path="../Class6th (Iteration Statement)/Class6th (Iteration Statement).vcxproj" Id="66ad83cf-35f1-4d33-bc18-4301f6a2fb9d" />
+  <Project Path="../Class7th (Preprocessor)/Class7th (Preprocessor).vcxproj" Id="8f415535-9837-4488-9aae-fe457afbddd6" />
   <Project Path="Program.vcxproj" Id="52f75708-b975-4dfa-9baa-6352524a3ba2" />
 </Solution>
