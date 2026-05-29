@@ -28,9 +28,7 @@ void main()
 	// 실수일 때 언더플로우가 발생하면 0이라는 값으로 출력됩니다.
 #pragma endregion
 
-#pragma region 
-	//         부호 없는 자료형
-
+#pragma region 부호 없는 자료형        
 	unsigned int experience = 4294967295;
 
 	// [1111 1111] [1111 1111] [1111 1111] [1111 1111]

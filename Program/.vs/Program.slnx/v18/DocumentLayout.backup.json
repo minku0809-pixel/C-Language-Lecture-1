@@ -7,16 +7,19 @@
       "RelativeMoniker": "D:0:0:{52F75708-B975-4DFA-9BAA-6352524A3BA2}|Program.vcxproj|solutionrelative:Source.C||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{45AD99D7-B84E-4414-88EF-3B082A955B99}|..\\Class8th (Pointer)\\Class8th (Pointer).vcxproj|C:\\Users\\minku\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\C-Language-Lecture-1\\Class8th (Pointer)\\Source.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{8F415535-9837-4488-9AAE-FE457AFBDDD6}|..\\Class7th (Preprocessor)\\Class7th (Preprocessor).vcxproj|C:\\Users\\minku\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\C-Language-Lecture-1\\Class7th (Preprocessor)\\Source.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{51074B60-228B-4313-8602-20B508FC574C}|..\\Class4th (Overflow \u0026 Underflow)\\Class4th (Overflow \u0026 Underflow).vcxproj|C:\\Users\\minku\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\C-Language-Lecture-1\\Class4th (Overflow \u0026 Underflow)\\Source.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{AE4E4C16-319B-4E6B-A5D6-6C47B6E9213B}|..\\Class2th (Variable \u0026 Constnt)\\Class2th (Variable \u0026 Constnt).vcxproj|C:\\Users\\minku\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\C-Language-Lecture-1\\Class2th (Variable \u0026 Constnt)\\Source.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{EA30155E-4CE8-4669-81DA-3AE62EFB4129}|..\\Class3th (bit)\\Class3th (bit).vcxproj|C:\\Users\\minku\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\C-Language-Lecture-1\\Class3th (bit)\\Source.C||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{51074B60-228B-4313-8602-20B508FC574C}|..\\Class4th (Overflow \u0026 Underflow)\\Class4th (Overflow \u0026 Underflow).vcxproj|C:\\Users\\minku\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\C-Language-Lecture-1\\Class4th (Overflow \u0026 Underflow)\\Source.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{1B6B7FFE-0397-451F-99A3-9D0DC803C831}|..\\Class5th (Conditional Statement)\\Class5th (Conditional Statement).vcxproj|C:\\Users\\minku\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\C-Language-Lecture-1\\Class5th (Conditional Statement)\\Source.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
@@ -35,11 +38,28 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 6,
+          "SelectedChildIndex": 8,
           "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
             {
               "$type": "Document",
               "DocumentIndex": 1,
+              "Title": "Source.c",
+              "DocumentMoniker": "C:\\Users\\minku\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\C-Language-Lecture-1\\Class8th (Pointer)\\Source.c",
+              "RelativeDocumentMoniker": "..\\Class8th (Pointer)\\Source.c",
+              "ToolTip": "C:\\Users\\minku\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\C-Language-Lecture-1\\Class8th (Pointer)\\Source.c",
+              "RelativeToolTip": "..\\Class8th (Pointer)\\Source.c",
+              "ViewState": "AgIAAG4AAAAAAAAAAAAmwJUAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2026-05-19T11:48:57.832Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "Source.c",
               "DocumentMoniker": "C:\\Users\\minku\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\C-Language-Lecture-1\\Class7th (Preprocessor)\\Source.c",
               "RelativeDocumentMoniker": "..\\Class7th (Preprocessor)\\Source.c",
@@ -47,11 +67,12 @@
               "RelativeToolTip": "..\\Class7th (Preprocessor)\\Source.c",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAFkAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
-              "WhenOpened": "2026-05-16T07:03:31.096Z"
+              "WhenOpened": "2026-05-16T07:03:31.096Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 7,
               "Title": "Source.c",
               "DocumentMoniker": "C:\\Users\\minku\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\C-Language-Lecture-1\\Class6th (Iteration Statement)\\Source.c",
               "RelativeDocumentMoniker": "..\\Class6th (Iteration Statement)\\Source.c",
@@ -63,7 +84,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 6,
               "Title": "Source.c",
               "DocumentMoniker": "C:\\Users\\minku\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\C-Language-Lecture-1\\Class5th (Conditional Statement)\\Source.c",
               "RelativeDocumentMoniker": "..\\Class5th (Conditional Statement)\\Source.c",
@@ -75,7 +96,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 3,
               "Title": "Source.c",
               "DocumentMoniker": "C:\\Users\\minku\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\C-Language-Lecture-1\\Class4th (Overflow \u0026 Underflow)\\Source.c",
               "RelativeDocumentMoniker": "..\\Class4th (Overflow \u0026 Underflow)\\Source.c",
@@ -83,11 +104,12 @@
               "RelativeToolTip": "..\\Class4th (Overflow \u0026 Underflow)\\Source.c",
               "ViewState": "AgIAAAYAAAAAAAAAAAAAABgAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
-              "WhenOpened": "2026-04-14T13:13:57.57Z"
+              "WhenOpened": "2026-04-14T13:13:57.57Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 4,
               "Title": "Source.c",
               "DocumentMoniker": "C:\\Users\\minku\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\C-Language-Lecture-1\\Class2th (Variable \u0026 Constnt)\\Source.c",
               "RelativeDocumentMoniker": "..\\Class2th (Variable \u0026 Constnt)\\Source.c",
@@ -99,7 +121,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 8,
               "Title": "Source.C",
               "DocumentMoniker": "C:\\Users\\minku\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\C-Language-Lecture-1\\Class1th (Compile)\\Source.C",
               "RelativeDocumentMoniker": "..\\Class1th (Compile)\\Source.C",
@@ -117,14 +139,14 @@
               "RelativeDocumentMoniker": "Source.C",
               "ToolTip": "C:\\Users\\minku\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\C-Language-Lecture-1\\Program\\Source.C",
               "RelativeToolTip": "Source.C",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAAJEAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAwC0AAAALAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
               "WhenOpened": "2026-04-07T09:19:18.601Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 5,
               "Title": "Source.C",
               "DocumentMoniker": "C:\\Users\\minku\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\C-Language-Lecture-1\\Class3th (bit)\\Source.C",
               "RelativeDocumentMoniker": "..\\Class3th (bit)\\Source.C",

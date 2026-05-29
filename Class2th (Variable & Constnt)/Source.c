@@ -2,8 +2,7 @@
 
 void main()
 {
-#pragma region 
-	//         변수
+#pragma region 변수
 	// 데이터를 저장할 수 있는 메모리 공간을 생성하는 것입니다.
 
 #pragma region 자료형
@@ -15,8 +14,7 @@ void main()
 	// 따라 저장할 수 있는 값의 종류와 범위가 결정됩니다.
 #pragma endregion
 
-#pragma region 
-	//         변수의 이름 규칙
+#pragma region 변수의 이름 규칙
 	// 1. 변수의 이름은 대소문자를 구분합니다.
 	// ex) int health;
 	// ex) int HEALTH;
