@@ -1,3 +1,2 @@
 ﻿  Source.C
-C:\Users\minku\OneDrive\바탕 화면\C-Language-Lecture-1\Program\Source.C(40,8): warning C4047: '초기화 중': 'int *'의 간접 참조 수준이 'int (*)[5]'과(와) 다릅니다.
   Program.vcxproj -> C:\Users\minku\OneDrive\바탕 화면\C-Language-Lecture-1\Program\x64\Debug\Program.exe
