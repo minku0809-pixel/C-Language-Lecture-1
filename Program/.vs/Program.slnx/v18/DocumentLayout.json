@@ -7,6 +7,9 @@
       "RelativeMoniker": "D:0:0:{52F75708-B975-4DFA-9BAA-6352524A3BA2}|Program.vcxproj|solutionrelative:Source.C||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{895D14CA-0E66-41B5-80D9-8B0EFF07FDD7}|..\\Class10th (Function)\\Class10th (Function).vcxproj|C:\\Users\\minku\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\C-Language-Lecture-1\\Class10th (Function)\\Source.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.26100.0\\ucrt\\stdio.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
@@ -20,11 +23,23 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 1,
+              "Title": "Source.c",
+              "DocumentMoniker": "C:\\Users\\minku\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\C-Language-Lecture-1\\Class10th (Function)\\Source.c",
+              "RelativeDocumentMoniker": "..\\Class10th (Function)\\Source.c",
+              "ToolTip": "C:\\Users\\minku\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\C-Language-Lecture-1\\Class10th (Function)\\Source.c",
+              "RelativeToolTip": "..\\Class10th (Function)\\Source.c",
+              "ViewState": "AgIAAG8AAAAAAAAAAAAgwJYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2026-05-30T14:00:03.884Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
               "Title": "Source.c",
               "DocumentMoniker": "C:\\Users\\minku\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\C-Language-Lecture-1\\Class9th (Array)\\Source.c",
               "RelativeDocumentMoniker": "..\\Class9th (Array)\\Source.c",
@@ -36,7 +51,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "stdio.h",
               "DocumentMoniker": "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.26100.0\\ucrt\\stdio.h",
               "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\..\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.26100.0\\ucrt\\stdio.h",
@@ -44,8 +59,7 @@
               "RelativeToolTip": "..\\..\\..\\..\\..\\..\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.26100.0\\ucrt\\stdio.h",
               "ViewState": "AgIAAHICAAAAAAAAAAAqwIUCAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2026-05-29T19:53:53.553Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-05-29T19:53:53.553Z"
             },
             {
               "$type": "Document",
@@ -55,7 +69,7 @@
               "RelativeDocumentMoniker": "Source.C",
               "ToolTip": "C:\\Users\\minku\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\C-Language-Lecture-1\\Program\\Source.C",
               "RelativeToolTip": "Source.C",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAADMAAAABAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEkAAAALAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
               "WhenOpened": "2026-05-29T19:17:34.716Z",
               "EditorCaption": ""
