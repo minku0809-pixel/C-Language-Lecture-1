@@ -3,6 +3,9 @@
   "WorkspaceRootPath": "C:\\Users\\minku\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\C-Language-Lecture-1\\Program\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{13107F7B-ACB7-438D-B2B8-03E9AF3FB252}|..\\Class13th (Struct)\\Class13th (Struct).vcxproj|C:\\Users\\minku\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\C-Language-Lecture-1\\Class13th (Struct)\\Source.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{52F75708-B975-4DFA-9BAA-6352524A3BA2}|Program.vcxproj|C:\\Users\\minku\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\C-Language-Lecture-1\\Program\\Source.C||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{52F75708-B975-4DFA-9BAA-6352524A3BA2}|Program.vcxproj|solutionrelative:Source.C||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
@@ -29,11 +32,24 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 5,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
+              "Title": "Source.c",
+              "DocumentMoniker": "C:\\Users\\minku\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\C-Language-Lecture-1\\Class13th (Struct)\\Source.c",
+              "RelativeDocumentMoniker": "..\\Class13th (Struct)\\Source.c",
+              "ToolTip": "C:\\Users\\minku\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\C-Language-Lecture-1\\Class13th (Struct)\\Source.c",
+              "RelativeToolTip": "..\\Class13th (Struct)\\Source.c",
+              "ViewState": "AgIAADYAAAAAAAAAAADwv1sAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2026-06-03T02:41:01.715Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "Source.c",
               "DocumentMoniker": "C:\\Users\\minku\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\C-Language-Lecture-1\\Class12th (Dynamic Alloction)\\Source.c",
               "RelativeDocumentMoniker": "..\\Class12th (Dynamic Alloction)\\Source.c",
@@ -45,7 +61,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "Source.c",
               "DocumentMoniker": "C:\\Users\\minku\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\C-Language-Lecture-1\\Class11th (Storage)\\Source.c",
               "RelativeDocumentMoniker": "..\\Class11th (Storage)\\Source.c",
@@ -57,7 +73,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "Source.c",
               "DocumentMoniker": "C:\\Users\\minku\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\C-Language-Lecture-1\\Class10th (Function)\\Source.c",
               "RelativeDocumentMoniker": "..\\Class10th (Function)\\Source.c",
@@ -69,7 +85,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 6,
               "Title": "Source.c",
               "DocumentMoniker": "C:\\Users\\minku\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\C-Language-Lecture-1\\Class9th (Array)\\Source.c",
               "RelativeDocumentMoniker": "..\\Class9th (Array)\\Source.c",
@@ -81,7 +97,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 5,
               "Title": "stdio.h",
               "DocumentMoniker": "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.26100.0\\ucrt\\stdio.h",
               "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\..\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.26100.0\\ucrt\\stdio.h",
@@ -93,13 +109,13 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "Source.C",
               "DocumentMoniker": "C:\\Users\\minku\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\C-Language-Lecture-1\\Program\\Source.C",
               "RelativeDocumentMoniker": "Source.C",
               "ToolTip": "C:\\Users\\minku\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\C-Language-Lecture-1\\Program\\Source.C",
               "RelativeToolTip": "Source.C",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAADgAAAATAAAAAAAAAA==",
+              "ViewState": "AgIAABAAAAAAAAAAAAAAwFsAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
               "WhenOpened": "2026-05-29T19:17:34.716Z",
               "EditorCaption": ""
